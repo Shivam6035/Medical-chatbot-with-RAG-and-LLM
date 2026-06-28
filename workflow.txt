@@ -22,3 +22,7 @@ write modular coding
 ---- GIT 
    update url -  git remote set-url origin https://github.com/Shivam6035/Medical-chatbot-with-RAG-and-LLM.git
    verify     -  git remote -v
+
+
+
+   all done
