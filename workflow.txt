@@ -1,0 +1,24 @@
+creating project templete (manually / bash script )
+    --- use 'template.sh' file 
+    --- run this file is the 'git bash' terminal
+    --- '$ sh template.sh' to run
+
+create new  environment  and activate
+    -- conda create -n medibot python=3.10 -y
+    -- conda activate medibot
+
+run the trails.ipynb for experiments
+
+setup Pinecone
+ --- create a new index and copy api key
+ --- push vector databse to Pinecone
+
+instead of giving API key live use variable to store in .env file and access is using dotenv code
+
+write modular coding
+  -- store_index.py will automate the creation of vector databse in Pinecone
+
+
+---- GIT 
+   update url -  git remote set-url origin https://github.com/Shivam6035/Medical-chatbot-with-RAG-and-LLM.git
+   verify     -  git remote -v
